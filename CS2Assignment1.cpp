@@ -1,6 +1,6 @@
 //
 //   COPYRIGHT (C) gna5@uakron.edu>, 2022  All rights reserved.
-//   Gregory Adams (this should be your name)
+//   Gregory Adams 
 //   Purpose: This is myCode and is based upon what we study for Comp Sci
 //
 #define _CRT_SECURE_NO_WARNINGS
